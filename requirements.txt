@@ -1,15 +1,4 @@
-asgiref==3.5.0
-bcrypt==3.1.7
 beautifulsoup4==4.10.0
-blinker==1.4
-certifi==2020.6.20
-chardet==4.0.0
-click==7.1.2
-colorama==0.4.4
-cryptography==3.3.2
-dbus-python==1.2.16
-defer==1.0.4
-devscripts===1.0.0
 distro==1.5.0
 distro-info==1.0
 Django==4.0.3
@@ -19,10 +8,3 @@ future==0.18.2
 httplib2==0.18.1
 idna==2.10
 importlib-metadata==4.0.1
-jeepney==0.7.1
-keyring==23.0.1
-launchpadlib==1.10.13
-lazr.restfulclient==0.14.2
-lazr.uri==1.0.5
-lockfile==0.12.2
-louis==1.3
